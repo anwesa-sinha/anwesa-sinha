@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anwesa Sinha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="Coding gif" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="Coding gif" width="400" src="https://media0.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e471086nglkp27d1hmqjlg2330g8k3w42qcju0stkla&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anwesa-sinha&label=Profile%20views&color=0e75b6&style=flat" alt="anwesa-sinha" /> </p>
 
