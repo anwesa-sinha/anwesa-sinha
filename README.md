@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anwesa Sinha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="Coding gif" width="400" src="![image](https://github.com/anwesa-sinha/anwesa-sinha/assets/110493614/2048c62b-e9bc-4d19-a2e8-1c524d4aea02)
-
-">
+<img align="right" alt="Coding gif" width="400" src="![image](https://github.com/anwesa-sinha/anwesa-sinha/assets/110493614/2048c62b-e9bc-4d19-a2e8-1c524d4aea02)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anwesa-sinha&label=Profile%20views&color=0e75b6&style=flat" alt="anwesa-sinha" /> </p>
 
