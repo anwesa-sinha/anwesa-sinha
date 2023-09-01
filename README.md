@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anwesa Sinha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="Coding gif" width="400" src="![image](https://github.com/anwesa-sinha/anwesa-sinha/assets/110493614/2048c62b-e9bc-4d19-a2e8-1c524d4aea02)">
+<img align="right" alt="Coding gif" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anwesa-sinha&label=Profile%20views&color=0e75b6&style=flat" alt="anwesa-sinha" /> </p>
 
-- 🔭 All my projects are available on [Github](https://github.com/anwesa-sinha)
+- 🔭 All my projects are available on **[Github](https://github.com/anwesa-sinha)**
 
 - 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anwesa-sinha](https://github.com/anwesa-sinha)
 
-- 📫 How to reach me **https://www.linkedin.com/in/anwesa-sinha-035168229/**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/anwesa-sinha-035168229/)**
 
 - ⚡ Fun fact **I am a pro Sudoku player**
 
