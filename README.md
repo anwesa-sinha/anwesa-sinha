@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anwesa-sinha&label=Profile%20views&color=0e75b6&style=flat" alt="anwesa-sinha" /> </p>
 
-- 🔭 All my projects are available on **[Github](https://github.com/anwesa-sinha)**
-
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anwesa-sinha](https://github.com/anwesa-sinha)
+- 👨‍💻 All of my projects are available at **[Github](https://github.com/anwesa-sinha?tab=repositories)**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/anwesa-sinha-035168229/)**
 
