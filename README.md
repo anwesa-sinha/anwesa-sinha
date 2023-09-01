@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/anwesa-sinha-035168229/)**
 
-- ⚡ Fun fact **I am a pro Sudoku player**
+- ⚡ Fun fact **I am a good Sudoku player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
