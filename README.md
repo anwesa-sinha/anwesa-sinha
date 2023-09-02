@@ -1,4 +1,4 @@
-![logo](https://github.com/anwesa-sinha/anwesa-sinha/blob/main/personal%20banner.png)
+![Personal banner](https://github.com/anwesa-sinha/anwesa-sinha/blob/main/personal%20banner.png)
 <h1 align="center">Hi 👋, I'm Anwesa Sinha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at **[Github](https://github.com/anwesa-sinha?tab=repositories)**
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/anwesa-sinha-035168229/)**
+- 📫 How to reach me **sinhaanwesa@gmail.com**
 
 - ⚡ Fun fact **I am a good Sudoku player**
 
