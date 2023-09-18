@@ -1,6 +1,6 @@
 ![Personal banner](https://github.com/anwesa-sinha/anwesa-sinha/blob/main/personal%20banner.png)
 <h1 align="center">Hi 👋, I'm Anwesa Sinha</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A Software Engineer in the making from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anwesa-sinha&label=Profile%20views&color=0e75b6&style=flat" alt="anwesa-sinha" /> </p>
 
