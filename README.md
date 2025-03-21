@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding gif" width="400" src="https://media0.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e471086nglkp27d1hmqjlg2330g8k3w42qcju0stkla&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **MAchine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at **[Github](https://github.com/anwesa-sinha?tab=repositories)**
 
